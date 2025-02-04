@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bikashc40914506" target="blank"><img src="https://img.shields.io/twitter/follow/@bikashc40914506?logo=twitter&style=for-the-badge" alt="@bikashc40914506" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **bc5588264@gmail.com**
 
